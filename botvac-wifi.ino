@@ -6,8 +6,8 @@
 #include <WebSocketsServer.h>
 #include <Hash.h>
 
-#define SSID "XXX"
-#define PASSWORT "XXX"
+#define SSID "Asus"
+#define PASSWORT "gt-814-k"
 
 WiFiClient client;
 int maxBuffer = 8192;
